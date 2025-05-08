@@ -1,7 +1,8 @@
 <h1 align="center">Hi there!, I'm Lebogang</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&center=true&vCenter=true&multiline=false&repeat=false&width=500&height=50&lines=A+.NET+Developer+Prominent+In+C%23" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=50&lines=A+.NET+Developer+Prominent+In+C%23;" alt="Typing SVG">
+
 </h3>
 
 <br>
