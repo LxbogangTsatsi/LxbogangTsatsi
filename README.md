@@ -26,5 +26,5 @@
 
 
 <h4>Let's connect</h4>
-<a href="mailto:ltsatsi18@gmail.com">ltsatsi18@gmail.com</a> <br>
-<a href="https://lebogang-tsatsi.netlify.app/">Personal Website</a>
+## Email: <a href="mailto:ltsatsi18@gmail.com">ltsatsi18@gmail.com</a> <br>
+## My personal website: <a href="https://lxbogang-tsatsi.netlify.app/">Personal Website</a>
